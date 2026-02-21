@@ -16,7 +16,7 @@ body{
 
 }
 #display{
-    width: 80%;
+    width: 100%;
     padding: 20px;
     font-size: 5rem;
     text-align: left;
@@ -33,13 +33,13 @@ body{
 
 }
 button,input{
-    width: 100px;
-    height: 100px;
+    width: 75px;
+    height: 80px;
     border-radius: 50px;
     border: none;
     background-color: hsl(0, 0%, 30%);
     color: wheat;
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: bold;
     cursor: pointer;
 }
